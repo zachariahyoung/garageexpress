@@ -1,0 +1,20 @@
+{
+  "name": "garageexpress",
+  "version": "0.0.0",
+  "authors": [
+    "Zachariah Young <zpyoung@gmail.com>"
+  ],
+  "description": "Garage Express",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
